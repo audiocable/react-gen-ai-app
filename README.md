@@ -1,3 +1,5 @@
+# NOTE: API Keys found in this repository are not functional keys. Please replace them with your own credentials.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
